@@ -6,7 +6,7 @@ Created on Wed Jul 24 10:12:32 2019
 
 from random import randint
 entier = randint(1,1000)
-print ("Bienvenue au Juste Prix !")
+print ("Bienvenue au Juste Prix ! Eh.")
 
 for nb_essais in range(1,11):
     print("Il vous reste",11 - nb_essais, "essai(s).")
